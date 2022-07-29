@@ -1,9 +1,6 @@
 {
-  "Products": {
-   "productName": { "loremWords": { "minLength": 5, "maxLength": 20 }}
-    "description": { "loremParagraphs": {"minLength":100,"maxLength":200} }, 
+  "Post": {
+    "title": { "string": {} }
+    
   }
-  
 }
-
-
