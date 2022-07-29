@@ -1,14 +1,14 @@
-{
-  "Post": {
+{"Post": {
+    
     "title": { "string": {} },
-    "longDescription": {
-    "loremSentences": { "minLength": 100, "maxLength": 200 }
-  },
+          "longDescription": {
+          "loremSentences": { "minLength": 100, "maxLength": 200 }},
+    
     "text": {
-    "loremParagraphs": { "minLength": 200, "maxLength": 500 }
-  },
-    "photo": {
-    "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080"
-  },
-  }
-}
+    "loremParagraphs": { "minLength": 200, "maxLength": 500 }},
+    
+    "cover": {
+      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+    },
+  
+  }}
