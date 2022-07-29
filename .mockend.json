@@ -7,7 +7,8 @@
           "loremSentences": { "minLength": 100, "maxLength": 200 }},
     
     "text": {
-    "loremParagraphs": { "minLength": 200, "maxLength": 500 }}
+    "loremParagraphs": { "minLength": 200, "maxLength": 500 }},
+    "price":"1000"
     
   
   
