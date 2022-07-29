@@ -1,8 +1,10 @@
 {
   "Products": {
-    "productName": { "string": {} },
+   "productName": { "loremWords": { "minLength": 5, "maxLength": 20 }}
     "description": { "loremParagraphs": {"minLength":100,"maxLength":200} },
-    "photo": { "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080" },
+    "photo": {
+    "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/1080"
+  }
     
   }
   
