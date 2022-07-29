@@ -1,5 +1,5 @@
 {
-  "Posts": {
+  "Post": {
     "title": { "string": {} },
     "longDescription": {
     "loremSentences": { "minLength": 100, "maxLength": 200 }
